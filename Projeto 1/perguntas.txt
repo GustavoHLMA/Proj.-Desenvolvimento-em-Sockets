@@ -1,0 +1,54 @@
+qual a capital do acre?
+rio branco
+qual a capital do alagoas?
+maceio
+qual a capital do amapa?
+macapa
+qual a capital do amazonas?
+manaus
+qual a capital da bahia?
+salvador
+qual a capital do ceara?
+fortaleza
+qual a capital do distrito federal?
+brasilia
+qual a capital do espirito santo?
+vitoria
+qual a capital de goias?
+goiania
+qual a capital do maranhao?
+sao luis
+qual a capital do mato grosso?
+cuiaba
+qual a capital do mato grosso do sul?
+campo grande
+qual a capital de minas gerais?
+belo horizonte
+qual a capital do para?
+belem
+qual a capital da paraiba?
+joao pessoa
+qual a capital do parana?
+curitiba
+qual a capital de pernambuco?
+recife
+qual a capital do piaui?
+teresina
+qual a capital do rio de janeiro?
+rio de janeiro
+qual a capital do rio grande do norte?
+natal
+qual a capital do rio grande do sul?
+porto alegre
+qual a capital de rondonia?
+porto velho
+qual a capital de roraima?
+boa vista
+qual a capital de santa catarina?
+florianopolis
+qual a capital de sao paulo?
+sao paulo
+qual a capital de sergipe?
+aracaju
+qual a capital de tocantins?
+palmas
